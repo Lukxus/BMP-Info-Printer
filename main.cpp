@@ -1,4 +1,7 @@
-// Desenvolva um programa em C que lê o conteúdo de um arquivo no formato da imagem escolhida por você e exibe todas as informações do arquivo (assinatura, cabeçalho, dados, etc.) em modo texto.
+// Desenvolva um programa em C que lê o conteúdo de um arquivo no formato da imagem escolhida por você 
+// e exibe todas as informações do arquivo (assinatura, cabeçalho, dados, etc.) em modo texto.
+// Referencia em C: https://pt.stackoverflow.com/questions/210877/leitura-de-uma-imagem-bitmap
+
 #include <iostream>
 #include <fstream>
 #include <cstdint>
